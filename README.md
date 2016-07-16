@@ -1,2 +1,2 @@
-# myPortfolioSite
-My personal website
+# Portfolio
+A template for a responsive mosaic portfolio/ resume
